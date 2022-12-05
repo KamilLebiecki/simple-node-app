@@ -14,4 +14,4 @@ Simple Node App
 
 ## Lessons Learned:
 
-fs, path and url modules usage.
+- fs, path and url modules usage.
